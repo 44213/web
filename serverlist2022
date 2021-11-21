@@ -1007,6 +1007,7 @@ http://feeds.feedburner.com/ziolowy %YY%_ziolowy_podcast
 http://feeds.soundcloud.com/users/soundcloud:users:135497021/sounds.rss?v=1.1 %YY%_zombie_zwierz
 http://falter-radio.libsyn.com/rss %YY%_falter_radio
 #####   Österreich   #####
+#####   Info-Quelle: https://radiothek.orf.at/podcasts   #####
 https://podcast.orf.at/podcast/oe1/oe1_matrix/oe1_matrix.xml %YY%_Ö1 matrix
 https://podcast.orf.at/podcast/oe1/oe1_reingehoert/oe1_reingehoert.xml %YY%_Ö1 rein_gehört
 https://podcast.orf.at/podcast/oe1/oe1_intro/oe1_intro.xml %YY%_Ö1 intro
@@ -1035,3 +1036,119 @@ https://podcast.orf.at/podcast/oe1/oe1_inklusion/oe1_inklusion.xml %YY%_Ö1 Inkl
 https://podcast.orf.at/podcast/oe1/oe1_hoerspiel/oe1_hoerspiel.xml %YY%_Ö1 Hörspiel
 https://podcast.orf.at/podcast/oe1/oe1_hoerbilder/oe1_hoerbilder.xml %YY%_Ö1 Hörbilder
 https://podcast.orf.at/podcast/oe1/oe1_gedanken/oe1_gedanken.xml %YY%_Ö1 Gedanken_für_den_Tag
+https://podcast.orf.at/podcast/oe1/oe1_followme/oe1_followme.xml %YY%_Ö1 Follow_me
+https://podcast.orf.at/podcast/oe1/oe1_exlibris/oe1_exlibris.xml %YY%_Ö1 Ex_libris
+https://podcast.orf.at/podcast/oe1/oe1_europajournal/oe1_europajournal.xml %YY%_Ö1 Europa_Journal
+https://podcast.orf.at/podcast/oe1/oe1_digitalleben/oe1_digitalleben.xml %YY%_Ö1 Digital_Leben
+https://podcast.orf.at/podcast/oe1/oe1_contra/oe1_contra.xml %YY%_Ö1 Contra
+https://podcast.orf.at/podcast/oe1/oe1_geschichte/oe1_geschichte.xml %YY%_Ö1 Betrifft_Geschichte
+https://podcast.orf.at/podcast/oe1/oe1_ambiente/oe1_ambiente.xml %YY%_Ö1 Ambiente_Reise_Shortcuts
+https://podcast.orf.at/podcast/oe1/oe1_doublecheck/oe1_doublecheck.xml %YY%_Ö1 doublecheck
+https://podcast.orf.at/podcast/oe1/oe1_warumklassik/oe1_warumklassik.xml %YY%_Ö1 Warum_Klassik
+https://podcast.orf.at/podcast/oe1/oe1_steirischerherbst/oe1_steirischerherbst.xml %YY%_Ö1 The_Way_Out
+https://podcast.orf.at/podcast/oe1/oe1_schwarzaufweiss/oe1_schwarzaufweiss.xml %YY%_Ö1 Schwarz_auf_Weiß_für_Licht_ins_Dunkel
+https://podcast.orf.at/podcast/oe1/oe1_salonfunk/oe1_salonfunk.xml %YY%_Ö1 Salon_Funk
+https://podcast.orf.at/podcast/oe1/oe1_sagsmulti/oe1_sagsmulti.xml %YY%_Ö1 Sags_multi_mit_Eser_Akbaba
+https://podcast.orf.at/podcast/oe1/oe1_ruthrecycelt/oe1_ruthrecycelt.xml %YY%_Ö1 Ruth_recycelt
+https://podcast.orf.at/podcast/oe1/oe1_makingofoe1/oe1_makingofoe1.xml %YY%_Ö1 Making_of_Ö1
+https://podcast.orf.at/podcast/oe1/oe1_klienundklien/oe1_klienundklien.xml %YY%_Ö1 KlienundKlien_Neue_Musik_im_Härtetest
+https://podcast.orf.at/podcast/oe1/oe1_imjournalzugast/oe1_imjournalzugast.xml %YY%_Ö1 Im_Ö1_Journal_zu_Gast
+https://podcast.orf.at/podcast/oe1/oe1_geschichteoesterreichs/oe1_geschichteoesterreichs.xml %YY%_Ö1 Die_Geschichte_Österreichs_in_29_Kapiteln
+https://podcast.orf.at/podcast/oe1/oe1_musalek/oe1_musalek.xml %YY%_Ö1 Auf_eine_Melange_mit_Musalek
+https://podcast.orf.at/podcast/oe1/oe1_aignersuniversum/oe1_aignersuniversum.xml %YY%_Ö1 Aigners_Universum
+https://podcast.orf.at/podcast/oe1/oe1_hundertsekunden/oe1_hundertsekunden.xml %YY%_Ö1 100_Sekunden_Gesundheit
+https://podcast.orf.at/podcast/fm4/FM4_Soundpark/FM4_Soundpark.xml %YY%_FM4 Soundpark_im_Gespräch
+https://podcast.orf.at/podcast/fm4/fm4_sonjaundbernd/fm4_sonjaundbernd.xml %YY%_FM4 Sonja_und_Bernd
+https://podcast.orf.at/podcast/fm4/fm4_sciencebusters/fm4_sciencebusters.xml %YY%_FM4 Science_Busters
+https://podcast.orf.at/podcast/fm4/fm4_realitycheck/fm4_realitycheck.xml %YY%_FM4 Reality_Check_Podcast
+https://podcast.orf.at/podcast/fm4/fm4_projektx/fm4_projektx.xml %YY%_FM4 Projekt_X
+https://podcast.orf.at/podcast/fm4/fm4_philosophieundpizza/fm4_philosophieundpizza.xml %YY%_FM4 Philosophie_und_Pizza
+https://podcast.orf.at/podcast/fm4/fm4_ombudsmann/fm4_ombudsmann.xml %YY%_FM4 Ombudsmann
+https://podcast.orf.at/podcast/fm4/fm4_musikmaschinen/fm4_musikmaschinen.xml %YY%_FM4 Musikmaschinen
+https://podcast.orf.at/podcast/fm4/fm4_mitakzent/fm4_mitakzent.xml %YY%_FM4 Mit_Akzent
+https://podcast.orf.at/podcast/fm4/fm4_interviewpodcast/fm4_interviewpodcast.xml %YY%_FM4 Interview_Podcast
+https://podcast.orf.at/podcast/fm4/fm4_hiphoplesekreis/fm4_hiphoplesekreis.xml %YY%_FM4 HipHop_Lesekreis
+https://podcast.orf.at/podcast/fm4/fm4_gamepodcast/fm4_gamepodcast.xml %YY%_FM4 Game_Podcast
+https://podcast.orf.at/podcast/fm4/fm4_film/fm4_film.xml %YY%_FM4 Film_Podcast
+https://podcast.orf.at/podcast/fm4/fm4_diezudeckerin/fm4_diezudeckerin.xml %YY%_FM4 Die_Zudeckerin
+https://podcast.orf.at/podcast/fm4/fm4_dasmagischeauge/fm4_dasmagischeauge.xml %YY%_FM4 Das_Magische_Auge
+https://podcast.orf.at/podcast/fm4/fm4_chezhermes/fm4_chezhermes.xml %YY%_FM4 Chez_Hermes_Extrawurscht_Podcast
+https://podcast.orf.at/podcast/fm4/fm4_auflaut/fm4_auflaut.xml %YY%_FM4 Auf_Laut
+https://podcast.orf.at/podcast/fm4/fm4_anfang20/fm4_anfang20.xml %YY%_FM4 Anfang_20
+https://podcast.orf.at/podcast/fm4/fm4_ambrafragt/fm4_ambrafragt.xml %YY%_FM4 Ambra_fragt
+https://podcast.orf.at/podcast/fm4/fm4_liebesleben/fm4_liebesleben.xml %YY%_FM4 Liebes_Leben
+https://podcast.orf.at/podcast/fm4/fm4_fmqueer/fm4_fmqueer.xml %YY%_FM4 FMqueer_dein_queerer_Plauderpodcast
+https://podcast.orf.at/podcast/wie/wie_wow/wie_wow.xml %YY%_Radio_Wien WOW
+https://podcast.orf.at/podcast/wie/wie_talk_im_turm/wie_talk_im_turm.xml %YY%_Radio_Wien Talk_im_Turm
+https://podcast.orf.at/podcast/wie/wie_fitnessminute/wie_fitnessminute.xml %YY%_Radio_Wien Stark_in_den_Tag
+https://podcast.orf.at/podcast/wie/wie_pflanzentipp/wie_pflanzentipp.xml %YY%_Radio_Wien Pflanzentipp
+https://podcast.orf.at/podcast/wie/wie_menschen_im_gespraech/wie_menschen_im_gespraech.xml %YY%_Radio_Wien Menschen_im_Gespräch
+https://podcast.orf.at/podcast/wie/wie_literatursalon/wie_literatursalon.xml %YY%_Radio_Wien Literatursalon
+https://podcast.orf.at/podcast/wie/wie_liebe_lust_leidenschaft/wie_liebe_lust_leidenschaft.xml %YY%_Radio_Wien Liebe_Lust_und_Leidenschaft
+https://podcast.orf.at/podcast/wie/wie_einfache_nachrichten/wie_einfache_nachrichten.xml %YY%_Radio_Wien Einfache_Nachrichten
+https://podcast.orf.at/podcast/wie/wie_traummaennlein/wie_traummaennlein.xml %YY%_Radio_Wien Das_Traummännlein_kommt
+https://podcast.orf.at/podcast/vbg/vbg_sutikocht/vbg_sutikocht.xml %YY%_Radio_Vorarlberg Suti_kocht
+https://podcast.orf.at/podcast/vbg/vbg_nbn/vbg_nbn.xml %YY%_Radio_Vorarlberg Neues_bei_Neustädter
+https://podcast.orf.at/podcast/vbg/vbg_kultur/vbg_kultur.xml %YY%_Radio_Vorarlberg Kultur
+https://podcast.orf.at/podcast/vbg/vbg_kaktuskuscheln/vbg_kaktuskuscheln.xml %YY%_Radio_Vorarlberg Kaktuskuscheln
+https://podcast.orf.at/podcast/vbg/vbg_focus/vbg_focus.xml %YY%_Radio_Vorarlberg Focus
+https://podcast.orf.at/podcast/vbg/vbg_ansichten/vbg_ansichten.xml %YY%_Radio_Vorarlberg Ansichten
+https://podcast.orf.at/podcast/tir/tir_uebergott/tir_uebergott.xml %YY%_Radio_Tirol Über_Gott_und_die_Welt
+https://podcast.orf.at/podcast/tir/tir_beidieleut/tir_beidieleut.xml %YY%_Radio_Tirol Bei_die_Leut
+https://podcast.orf.at/podcast/tir/tir_aufeinwort/tir_aufeinwort.xml %YY%_Radio_Tirol Auf_ein_Wort
+https://podcast.orf.at/podcast/tir/tir_hashtagderwoche/tir_hashtagderwoche.xml %YY%_Radio_Tirol #derWoche
+https://podcast.orf.at/podcast/stm/stm_mentaltipps/stm_mentaltipps.xml %YY%_Radio_Steiermark Mentaltipps_von_Manuel_Horeth
+https://podcast.orf.at/podcast/stm/stm_lesezeichen/stm_lesezeichen.xml %YY%_Radio_Steiermark Lesezeichen
+https://podcast.orf.at/podcast/stm/stm_pflanzentipp/stm_pflanzentipp.xml %YY%_Radio_Steiermark Karl_Plobergers_Pflanzentipp
+https://podcast.orf.at/podcast/stm/stm_gedanken/stm_gedanken.xml %YY%_Radio_Steiermark Gedanken_zur_Zeit
+https://podcast.orf.at/podcast/stm/stm_einfachesprache/stm_einfachesprache.xml %YY%_Radio_Steiermark Die_Woche_in_einfacher_Sprache
+https://podcast.orf.at/podcast/stm/stm_kinderreporter/stm_kinderreporter.xml %YY%_Radio_Steiermark Die_Radio_Steiermark_Kinderreporter
+https://podcast.orf.at/podcast/stm/stm_journale/stm_journale.xml %YY%_Radio_Steiermark Die_Radio_Steiermark_Journale
+https://podcast.orf.at/podcast/stm/stm_kraeutertipp/stm_kraeutertipp.xml %YY%_Radio_Steiermark Der_Kräutertipp_von_Christine_Lackner
+https://podcast.orf.at/podcast/stm/stm_bewegtundaktivbleiben/stm_bewegtundaktivbleiben.xml %YY%_Radio_Steiermark Bewegt_und_aktiv_bleiben
+https://podcast.orf.at/podcast/sbg/sbg_radio_salzburg_cafe/sbg_radio_salzburg_cafe.xml %YY%_Radio_Salzburg Cafe_Podcast
+https://podcast.orf.at/podcast/ooe/ooe_linzer_torte/ooe_linzer_torte.xml %YY%_Radio_Oberösterreichs Linzer_Torte
+https://podcast.orf.at/podcast/noe/noe_zugastnach11/noe_zugastnach11.xml %YY%_Radio_Niederösterreich Zu_Gast_nach_11
+https://podcast.orf.at/podcast/noe/noe_journale/noe_journale.xml %YY%_Radio_Niederösterreich NÖ_Journale
+https://podcast.orf.at/podcast/noe/noe_nahaufnahme/noe_nahaufnahme.xml %YY%_Radio_Niederösterreich Nahaufnahme
+https://podcast.orf.at/podcast/ktn/ktn_streitkultur/ktn_streitkultur.xml %YY%_Radio_Kärnten Streitkultur
+https://podcast.orf.at/podcast/bgl/bgl_uhzb/bgl_uhzb.xml %YY%_Radio_Burgenland Uschi_hoch_zu_Beet
+https://podcast.orf.at/podcast/bgl/bgl_sprechstunde/bgl_sprechstunde.xml %YY%_Radio_Burgenland Sprechstunde
+https://podcast.orf.at/podcast/bgl/bgl_extra/bgl_extra.xml %YY%_Radio_Burgenland Extra_Kunst_Kultur
+https://podcast.orf.at/podcast/bgl/bgl_mahlzeit/bgl_mahlzeit.xml %YY%_Radio_Burgenland Kochen_Tratschen
+https://podcast.orf.at/podcast/bgl/bgl_buchklub/bgl_buchklub.xml %YY%_Radio_Burgenland Barbara_Karlich_Buchklub
+https://podcast.orf.at/podcast/oe3/oe3_wek_comedy/oe3_wek_comedy.xml %YY%_Radio_OE3 Wecker_Comedy
+https://podcast.orf.at/podcast/oe3/oe3_movie_minute/oe3_movie_minute.xml %YY%_Radio_OE3 Movie_Minute
+https://podcast.orf.at/podcast/oe3/oe3_walek_wandert/oe3_walek_wandert.xml %YY%_Radio_OE3 Walek_wandert
+https://podcast.orf.at/podcast/oe3/oe3_treffpunkt_sternstunden/oe3_treffpunkt_sternstunden.xml %YY%_Radio_OE3 Treffpunkt_Sternstunden
+https://podcast.orf.at/podcast/oe3/oe3_treffpunkt_podcast/oe3_treffpunkt_podcast.xml %YY%_Radio_OE3 Treffpunkt_Podcast
+https://podcast.orf.at/podcast/oe3/oe3_liebe_usw/oe3_liebe_usw.xml %YY%_Radio_OE3 Treffpunkt_Liebe
+https://podcast.orf.at/podcast/oe3/oe3_knoll_packt_an/oe3_knoll_packt_an.xml %YY%_Radio_OE3 Knoll_packt_an
+https://podcast.orf.at/podcast/oe3/oe3_fruehstueck/oe3_fruehstueck.xml %YY%_Radio_OE3 Frühstück_bei_mir
+https://podcast.orf.at/podcast/oe3/oe3_frag_das_ganze_land/oe3_frag_das_ganze_land.xml %YY%_Radio_OE3 Frag_das_ganze_Land
+#####   Info-Quelle: https://radiothek.orf.at/podcasts   #####
+https://files.orf.at/podcast/tvpodcast/PRESSESTUNDE-Podcast.xml %YY%_TV_ORF ORF_Pressestunde
+https://files.orf.at/podcast/tvpodcast/ORF2_Redaktionsgespraeche.xml %YY%_TV_ORF2 Redaktionsgespräche
+https://files.orf.at/podcast/tvpodcast/REPORT-Werkstatt.xml %YY%_TV_ORF Werkstatt
+https://files.orf.at/podcast/tvpodcast/REPORT-Podcast.xml %YY%_TV_ORF REPORT
+https://files.orf.at/podcast/zib/ZIB_2_Podcast.xml %YY%_TV_ORF ZIB2_Interviews
+https://files.orf.at/podcast/tvpodcast/SOMMERGESPRAECHE-Podcast.xml %YY%_TV_ORF Sommergespräche
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
