@@ -1133,10 +1133,17 @@ https://files.orf.at/podcast/tvpodcast/REPORT-Werkstatt.xml %YY%_TV_ORF Werkstat
 https://files.orf.at/podcast/tvpodcast/REPORT-Podcast.xml %YY%_TV_ORF REPORT
 https://files.orf.at/podcast/zib/ZIB_2_Podcast.xml %YY%_TV_ORF ZIB2_Interviews
 https://files.orf.at/podcast/tvpodcast/SOMMERGESPRAECHE-Podcast.xml %YY%_TV_ORF Sommergespräche
-
-
-
-
+#####   ServusTV.com   #####
+#####   Info-Quelle: https://www.servustv.com/allgemein/p/podcast/119751/   #####
+https://servustv.castos.com/feed %YY%_ServusTV Der_Wegscheider
+https://servustv.castos.com/talk-im-hangar-7 %YY%_ServusTV Talk_im_Hangar7
+https://servustv.castos.com/links-rechts-mitte-duell-der-meinungsmacher %YY%_ServusTV Links_Rechts_Mitte
+https://servustv.castos.com/fleischhauer-9-minuten-netto %YY%_ServusTV Fleischhauer_9_Minuten_netto
+https://servustv.castos.com/meiberger-im-kopf-des-taters-das-horspiel %YY%_ServusTV Meiberger_Im_Kopf_des_Täters
+https://servustv.castos.com/fahndung-osterreich-der-podcast %YY%_ServusTV Fahndung_Österreich_der_Podcast
+https://servustv.castos.com/servus-musilosn %YY%_ServusTV Servus_Musilosn
+https://servustv.castos.com/literatour %YY%_ServusTV literaTOUR
+https://servustv.castos.com/passion-der-podcast-rund-um-die-motogp-und-world-superbike %YY%_ServusTV Passion_Der_Podcast_rund_um_die_MotoGP_und_WorldSBK
 
 
 
