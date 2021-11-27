@@ -1,44 +1,46 @@
 # Default Server List for podget
-######   kontestacja  
+this is a list of podcasts i use for archiving  
+the definition is for podget podcatcher
+##   kontestacja  
 http://feeds.feedburner.com/Kontestacja %YY%_kontestacja kontestacja  
 http://www.kontestacja.com//program1.xml %YY%_kontestacja wydanie_glowne  
 http://www.kontestacja.com//program2.xml %YY%_kontestacja raport_martina  
 http://www.kontestacja.com//program3.xml %YY%_kontestacja jan_fijor  
 http://www.kontestacja.com//program4.xml %YY%_kontestacja swiat_kamila_c  
 http://www.kontestacja.com//program5.xml %YY%_kontestacja epicentrum  
-http://www.kontestacja.com//program6.xml %YY%_kontestacja tydzien_w_sieci  
-http://www.kontestacja.com//program10.xml %YY%_kontestacja w_terenie
-http://www.kontestacja.com//program11.xml %YY%_kontestacja podcastofon
-http://www.kontestacja.com//program16.xml %YY%_kontestacja konserwa
-http://www.kontestacja.com//program17.xml %YY%_kontestacja komentarz_instytutu_misesa
-http://www.kontestacja.com//program18.xml %YY%_kontestacja agentomasz
-http://www.kontestacja.com//program25.xml %YY%_kontestacja kazania_wolnorynkowe
-http://www.kontestacja.com//program26.xml %YY%_kontestacja fridomia
-http://www.kontestacja.com//program27.xml %YY%_kontestacja czerwona_pigulka
-http://www.kontestacja.com//program28.xml %YY%_kontestacja proste_zwierciadlo
-http://www.kontestacja.com//program34.xml %YY%_kontestacja mala_wielka_firma
-http://www.kontestacja.com//program35.xml %YY%_kontestacja o_piwie
-http://www.kontestacja.com//program36.xml %YY%_kontestacja opowiesci_pastora
-http://www.kontestacja.com//program38.xml %YY%_kontestacja okiem_niedzwiedzia
-http://www.kontestacja.com//program39.xml %YY%_kontestacja jasna_strona_mocy
-http://www.kontestacja.com//program41.xml %YY%_kontestacja uk_trip
-http://www.kontestacja.com//program42.xml %YY%_kontestacja firma_na_emigracji
-http://www.kontestacja.com//program45.xml %YY%_kontestacja klub_inwestora
-http://www.kontestacja.com//program46.xml %YY%_kontestacja radio_strefa_biznesu
-http://www.kontestacja.com//program51.xml %YY%_kontestacja freestejt
-http://www.kontestacja.com//program52.xml %YY%_kontestacja wolnosc_finansowa
-http://www.kontestacja.com//program53.xml %YY%_kontestacja zoologikus
-http://www.kontestacja.com//program55.xml %YY%_kontestacja wokol_biznesu
-http://www.kontestacja.com//program56.xml %YY%_kontestacja swiadomy_emigrant
-http://www.kontestacja.com//program57.xml %YY%_kontestacja programista_na_emigracji
-http://www.kontestacja.com//program58.xml %YY%_kontestacja panstwo_piesto
-http://www.kontestacja.com//program60.xml %YY%_kontestacja koczowisko_dekadencji
-http://www.kontestacja.com//program63.xml %YY%_kontestacja biznes_ci_ucieka
-http://www.kontestacja.com//program64.xml %YY%_kontestacja filozofia_bez_kompromisu
-http://www.kontestacja.com//program66.xml %YY%_kontestacja nieruchomosci
-http://www.kontestacja.com//program67.xml %YY%_kontestacja salon_polityczny
-http://www.kontestacja.com//program68.xml %YY%_kontestacja w_glab_siebie
-http://www.kontestacja.com//program69.xml %YY%_kontestacja rozmowy_w_nocy
+http://www.kontestacja.com//program6.xml %YY%_kontestacja tydzien_w_sieci    
+http://www.kontestacja.com//program10.xml %YY%_kontestacja w_terenie  
+http://www.kontestacja.com//program11.xml %YY%_kontestacja podcastofon  
+http://www.kontestacja.com//program16.xml %YY%_kontestacja konserwa  
+http://www.kontestacja.com//program17.xml %YY%_kontestacja komentarz_instytutu_misesa  
+http://www.kontestacja.com//program18.xml %YY%_kontestacja agentomasz  
+http://www.kontestacja.com//program25.xml %YY%_kontestacja kazania_wolnorynkowe  
+http://www.kontestacja.com//program26.xml %YY%_kontestacja fridomia  
+http://www.kontestacja.com//program27.xml %YY%_kontestacja czerwona_pigulka  
+http://www.kontestacja.com//program28.xml %YY%_kontestacja proste_zwierciadlo  
+http://www.kontestacja.com//program34.xml %YY%_kontestacja mala_wielka_firma  
+http://www.kontestacja.com//program35.xml %YY%_kontestacja o_piwie  
+http://www.kontestacja.com//program36.xml %YY%_kontestacja opowiesci_pastora  
+http://www.kontestacja.com//program38.xml %YY%_kontestacja okiem_niedzwiedzia  
+http://www.kontestacja.com//program39.xml %YY%_kontestacja jasna_strona_mocy  
+http://www.kontestacja.com//program41.xml %YY%_kontestacja uk_trip  
+http://www.kontestacja.com//program42.xml %YY%_kontestacja firma_na_emigracji  
+http://www.kontestacja.com//program45.xml %YY%_kontestacja klub_inwestora  
+http://www.kontestacja.com//program46.xml %YY%_kontestacja radio_strefa_biznesu  
+http://www.kontestacja.com//program51.xml %YY%_kontestacja freestejt  
+http://www.kontestacja.com//program52.xml %YY%_kontestacja wolnosc_finansowa  
+http://www.kontestacja.com//program53.xml %YY%_kontestacja zoologikus  
+http://www.kontestacja.com//program55.xml %YY%_kontestacja wokol_biznesu  
+http://www.kontestacja.com//program56.xml %YY%_kontestacja swiadomy_emigrant  
+http://www.kontestacja.com//program57.xml %YY%_kontestacja programista_na_emigracji  
+http://www.kontestacja.com//program58.xml %YY%_kontestacja panstwo_piesto  
+http://www.kontestacja.com//program60.xml %YY%_kontestacja koczowisko_dekadencji  
+http://www.kontestacja.com//program63.xml %YY%_kontestacja biznes_ci_ucieka  
+http://www.kontestacja.com//program64.xml %YY%_kontestacja filozofia_bez_kompromisu  
+http://www.kontestacja.com//program66.xml %YY%_kontestacja nieruchomosci  
+http://www.kontestacja.com//program67.xml %YY%_kontestacja salon_polityczny  
+http://www.kontestacja.com//program68.xml %YY%_kontestacja w_glab_siebie  
+http://www.kontestacja.com//program69.xml %YY%_kontestacja rozmowy_w_nocy  
 #### radio nafali
 http://radionafali.com/audycja/zapomniany-ksiegozbior/feed %YY%_nafali zapomniany_ksiegozbior
 http://radionafali.com/audycja/zakazana-wiedza/feed %YY%_nafali zakazana_wiedza
@@ -1158,16 +1160,3 @@ https://servustv.castos.com/passion-der-podcast-rund-um-die-motogp-und-world-sup
 ##### https://www.radio886.at/Programm/Podcast#88.6_Podcasts
 ##### https://www.kronehit.at/kronehit-podcasts/
 ##### https://www.derstandard.at/podcast
-
-
-
-
-
-
-
-
-
-
-
-
-
