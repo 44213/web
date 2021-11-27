@@ -1,12 +1,12 @@
 # Default Server List for podget
 ######   kontestacja  
-http://feeds.feedburner.com/Kontestacja %YY%_kontestacja kontestacja
-http://www.kontestacja.com//program1.xml %YY%_kontestacja wydanie_glowne
-http://www.kontestacja.com//program2.xml %YY%_kontestacja raport_martina
-http://www.kontestacja.com//program3.xml %YY%_kontestacja jan_fijor
-http://www.kontestacja.com//program4.xml %YY%_kontestacja swiat_kamila_c
-http://www.kontestacja.com//program5.xml %YY%_kontestacja epicentrum
-http://www.kontestacja.com//program6.xml %YY%_kontestacja tydzien_w_sieci
+http://feeds.feedburner.com/Kontestacja %YY%_kontestacja kontestacja  
+http://www.kontestacja.com//program1.xml %YY%_kontestacja wydanie_glowne  
+http://www.kontestacja.com//program2.xml %YY%_kontestacja raport_martina  
+http://www.kontestacja.com//program3.xml %YY%_kontestacja jan_fijor  
+http://www.kontestacja.com//program4.xml %YY%_kontestacja swiat_kamila_c  
+http://www.kontestacja.com//program5.xml %YY%_kontestacja epicentrum  
+http://www.kontestacja.com//program6.xml %YY%_kontestacja tydzien_w_sieci  
 http://www.kontestacja.com//program10.xml %YY%_kontestacja w_terenie
 http://www.kontestacja.com//program11.xml %YY%_kontestacja podcastofon
 http://www.kontestacja.com//program16.xml %YY%_kontestacja konserwa
