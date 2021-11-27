@@ -542,6 +542,12 @@ http://feeds.feedburner.com/dal_coaching?format=xml %YY%_Abenteuer coaching
 http://change.podspot.de/rss %YY%_Abenteuer change_management
 http://feeds.feedburner.com/AbenteuerBringDenMuellRaus?format=xml %YY%_Abenteuer stress_abbau
 ### NDR Podcasts
+### NDR Schlager
+https://www.ndr.de/ndrschlager/podcast4488.xml %YY%_NDR_Schlager Das_Schlager_ABC
+https://www.ndr.de/ndrschlager/podcasts/podcast4522.xml %YY%_NDR_Schlager Ausflugstipps
+https://www.ndr.de/903/podcast4306.xml %YY%_NDR_903 Das_Hamburger_Hafenkonzert
+https://www.ndr.de/wellenord/podcast4201.xml %YY%_NDR Das_Niederdeutsche_Hörspiel
+https://www.ndr.de/ndr1niedersachsen/podcast4772.xml %YY%_NDR Wi_sünd_Platt
 https://www.ndr.de/ndr1niedersachsen/podcast4312.xml %YY%_NDR_1 Stars_am_Sonntag
 https://www.ndr.de/ndr1niedersachsen/podcast3052.xml %YY%_NDR_1 Ratgeber
 https://www.ndr.de/ndr1niedersachsen/podcast3044.xml %YY%_NDR_1 Visite_Das_Gesundheitsmagazin
