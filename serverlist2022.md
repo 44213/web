@@ -41,8 +41,8 @@ http://www.kontestacja.com//program66.xml %YY%_kontestacja nieruchomosci
 http://www.kontestacja.com//program67.xml %YY%_kontestacja salon_polityczny  
 http://www.kontestacja.com//program68.xml %YY%_kontestacja w_glab_siebie  
 http://www.kontestacja.com//program69.xml %YY%_kontestacja rozmowy_w_nocy  
-#### radio nafali
-http://radionafali.com/audycja/zapomniany-ksiegozbior/feed %YY%_nafali zapomniany_ksiegozbior
+### radio nafali
+http://radionafali.com/audycja/zapomniany-ksiegozbior/feed %YY%_nafali zapomniany_ksiegozbior  
 http://radionafali.com/audycja/zakazana-wiedza/feed %YY%_nafali zakazana_wiedza
 http://radionafali.com/audycja/wywiad-zagraniczny/feed %YY%_nafali wywiad_zagraniczny
 http://radionafali.com/audycja/na-falach-stron/feed %YY%_nafali na_falach_stron
